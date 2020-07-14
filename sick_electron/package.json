@@ -1,0 +1,21 @@
+{
+  "name": "sick_electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "packager": "  electron-packager ./ sick --platform=win32  --arch=x64 --out ./win64  --electron-version  --overwrite  --asar --icon './img/logo.ico'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64-arraybuffer": "^0.2.0",
+    "electron": "^9.1.0"
+  },
+  "devDependencies": {
+    "electron-packager": "^15.0.0"
+  }
+}

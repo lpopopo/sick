@@ -1,0 +1,100 @@
+.resshow{
+    min-width:800px;
+    height: 500px;
+    .content{
+        width: 100%;
+        height: 600px;
+        display: flex;
+        .dicomlist{
+            height: 100%;
+            width: 300px;
+            // border:3px dotted #ccc;
+            overflow-y: auto;
+            overflow-x: hidden;
+            .dicom{
+                width: 200px;
+                margin: 10px 10px;
+                max-height: 200px;
+                margin: auto;
+                margin-bottom: 25px;
+                margin-top: 25px;
+                div{
+                    width: 100%;
+                    height: 100%;
+                    canvas{
+                        width: 100%;
+                        height: 100%;
+                        border-radius: 8px;
+                    }
+                }
+            }
+        }
+        .dicomtool{
+            width: 577px;
+            height: 700px;
+            // overflow: hidden;
+            margin: auto auto;
+            margin-top: 0;
+            .mianReport{
+                position: relative;
+                top: 50px;
+                width: 455px;
+                height: 50px;
+                border:1px solid black;
+            }
+            .show{
+                width: 100%;
+                height: 500px;
+                div{
+                    width: 100%;
+                    height: 100%;
+                    canvas{
+                        max-width: 100%;
+                        max-height: 100%;
+                        border-radius: 8px;
+                        margin: 0  0;
+                    }
+                } 
+                .report{
+                    width: 600px;
+                    height: 150px;
+                    z-index: 999;
+                    p{
+                        width: 600px;
+                        height:50px;
+                        margin: 0 0;
+                        span{
+                            display: inline-block;
+                            width: 120px;
+                            height: 100%;
+                            margin: 0 0;
+                            text-align: center;
+                            vertical-align: top;
+                        }
+                        .text{
+                            width: 70px;
+                        }
+                    }
+                } 
+            }
+            .noshow{
+                // display: none;
+                visibility: hidden;
+            }     
+        }
+    }
+    .btn{
+        text-align:right;
+        margin-right: 50px;
+        margin-top: 10px;
+    }
+}
+
+
+.good{
+    color: green;
+}
+
+.bad{
+    color: red;
+}

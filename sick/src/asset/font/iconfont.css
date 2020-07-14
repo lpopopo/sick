@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1589439858576'); /* IE9 */
+  src: url('iconfont.eot?t=1589439858576#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAP8AAsAAAAACCAAAAOuAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqEAIM/ATYCJAMMCwgABCAFhG0HPRsMB8gOJaHAkABgYAxgPHzt9zv37T754kCDJBrpPp3EkIgksRSgBEqnEpplsQbTGf7d1iNPh1GI9q7K6GTiXU94VIxxkbOq7yujPiv+53J8d+UH2PqW5TLXwKNegHFAAY21KZAwLpCAvGHsgpa4n0DbnBVoe3EpfGAkM4cF4kQmwYFRRic3FIdGqCrmZhC3gKUpyumXAXATfD9+gFcYAYUyAfOg/eNYEYh493qPMKj/lLWJAtR0FrBFJKwDMnFUaTvEiGLrGNqqjNmcXclCMVXw/38CnqaoNvrHK4gKmIVdsAylxUXxHSbBJ8KFctfvoEKJOwA8IvLU+UnqorEmJo7bb9/m37mD3bsnuHs3t8kGtNsgLY6CFlr8wiFNI7xW3rHwVi7WTDVV2Ia14JRN22EfpKIlv5XDGZ107JxZVOE4cDfu7G2Ppq69C4am+o8sbOZwhrnNTcjpuL03XWxprbzea/4cx3uCe9gJjOJcmMsV3C3kbaqxOwX821WKu1WeuEBuWy24V8jPEbTmT1TYBGe0VIxRXIzfRI1X8gRY875elBF+hPn7N/OIxcbqIwwoTN50bAZY/Fm+Irdp4BcNuiW/Tc5h+8REP36cmICZT5hjfEvufDa39qsi43bLceMCj7NRiff6bVluaYKHLUIvvYaIsG6977tgcOMcJXBrJo379uiGc+k8FrdlRsvMXCqU8gwO2TnX2VEs1p4uGniIpspwGy+jcGEU3ntcp1wKcaVuqRBu9PAnFEHY4RTrPCESQdGEE+Y0EbApxZnvNA4nwy/yEbARwP+JdIwRARMn01FG4I/9je/nU9UbzEO+GnGYAF5emRHQ+38ig+4GzW3bg9/I71iTNSUszwrP4RmO5PKVRAu0NbmfVwpjT4crpjsXEhrTCRRqs5A05pFMXodSxwZUGpvQtiZ+cccEgSGyMWBVMYAwNAuFvntIhq4gmfwESjO+QGUYDGg7COs1OxZDhkQTECehCM3bisqEGrXYNpJIWJwFJQYlTqSFASUHEnpZEPV088gn46EaElNM0G+SeJGkGBUTGhUaBw6DSqUG1RIaORSSblKS1Aa5u4urnuQm1KgAYhcBwpEgEVSerVAyQhpqYq8xCSl8PgskYaCEIxoIVdYcEEFP1jrKkxuPDki8TN2JcCuP6G0i4YVEEkOJETRUUHGgF6SkpIHSVveSg4RIbqQDIlpB3K164q4yt+UVqvfbBG3m+BR0GoPGBO1rKa6WCKUGr5qtM2yR4RoAAAAA') format('woff2'),
+  url('iconfont.woff?t=1589439858576') format('woff'),
+  url('iconfont.ttf?t=1589439858576') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1589439858576#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+/* .iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shangchuan:before {
+  content: "\e632";
+}
+
+.icon-quxiao:before {
+  content: "\e80a";
+} */
+

@@ -1,0 +1,23 @@
+{
+  "id": "1333154",
+  "name": "222",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1346665",
+      "name": "上传",
+      "font_class": "shangchuan",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "14433100",
+      "name": "取消",
+      "font_class": "quxiao",
+      "unicode": "e80a",
+      "unicode_decimal": 59402
+    }
+  ]
+}

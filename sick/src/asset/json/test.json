@@ -1,0 +1,138 @@
+{
+  "data":[
+    {
+      "code": 1000, 
+      "results": [
+        {
+          "BI-RADS": 0, 
+          "benign": 0.0, 
+          "lesion_pos": [
+            {
+              "abnormality_type": 1, 
+              "pathology": 0, 
+              "rect": [
+                1446, 
+                2216, 
+                83, 
+                72
+              ]
+            }, 
+            {
+              "abnormality_type": 1, 
+              "pathology": 0, 
+              "rect": [
+                1735, 
+                1871, 
+                99, 
+                98
+              ]
+            }, 
+            {
+              "abnormality_type": 1, 
+              "pathology": 0, 
+              "rect": [
+                679, 
+                3010, 
+                130, 
+                231
+              ]
+            }, 
+            {
+              "abnormality_type": 1, 
+              "pathology": 0, 
+              "rect": [
+                695, 
+                3507, 
+                59, 
+                57
+              ]
+            }, 
+            {
+              "abnormality_type": 1, 
+              "pathology": 0, 
+              "rect": [
+                847, 
+                3383, 
+                114, 
+                240
+              ]
+            }
+          ], 
+          "malignant": 0.0, 
+          "position": "R-MLO", 
+          "seriesNo": "1.3.6.1.4.1.9590.100.1.2.101743131510015201839523365310215332980", 
+          "sopNo": "1.3.6.1.4.1.9590.100.1.2.364693372812662813631283150541454797221"
+        }
+      ], 
+      "scannerType": 1, 
+      "seriesNo": "1.3.6.1.4.1.9590.100.1.2.101743131510015201839523365310215332980"
+    },
+    {
+      "code": 1000, 
+      "results": [
+        {
+          "BI-RADS": 0, 
+          "benign": 0.0, 
+          "lesion_pos": [
+            {
+              "abnormality_type": 1, 
+              "pathology": 0, 
+              "rect": [
+                2207, 
+                1655, 
+                95, 
+                112
+              ]
+            }, 
+            {
+              "abnormality_type": 1, 
+              "pathology": 0, 
+              "rect": [
+                1058, 
+                2341, 
+                126, 
+                108
+              ]
+            }, 
+            {
+              "abnormality_type": 1, 
+              "pathology": 0, 
+              "rect": [
+                2432, 
+                1185, 
+                120, 
+                87
+              ]
+            }, 
+            {
+              "abnormality_type": 1, 
+              "pathology": 0, 
+              "rect": [
+                894, 
+                1780, 
+                209, 
+                234
+              ]
+            }, 
+            {
+              "abnormality_type": 1, 
+              "pathology": 0, 
+              "rect": [
+                2672, 
+                1617, 
+                88, 
+                73
+              ]
+            }
+          ], 
+          "malignant": 0.0, 
+          "position": "R-CC", 
+          "seriesNo": "1.3.6.1.4.1.9590.100.1.2.101743131510015201839523365310215332980", 
+          "sopNo": "1.3.6.1.4.1.9590.100.1.2.125545355511948424009252097783550703375"
+        }
+      ], 
+      "scannerType": 1, 
+      "seriesNo": "1.3.6.1.4.1.9590.100.1.2.101743131510015201839523365310215332980"
+    }   
+  ]
+}

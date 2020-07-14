@@ -1,0 +1,136 @@
+.login{
+    width: 100%;
+    height: 100%;
+    .name{
+        text-align: center;
+        margin-top:10%;
+        font-size: 32px;
+        margin-bottom: 60px;
+        font-family:"PingFang SC";
+        // color: #1072EC;
+    }
+    .logo{
+        width: 15vw;
+        height: 20vh;
+        margin: auto;
+        background-image: url("../img/yisheng.png");
+        background-size: cover;
+        background-position: center , center;
+    }
+    .btn{
+        width: 24vw;
+        margin: auto auto;
+        margin-top: 30px;
+        .register , .onload{
+            button{
+                width: 100%;
+                height: 40px;
+                border-radius: 5px;
+                margin-top: 15px;
+                background-color: #1072EC;
+                color: blanchedalmond;
+            }
+        }
+    }
+}
+
+
+.onloadPage{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    .loadBackground{
+        width: 55vw;
+        height: 100%;
+        background-image: url('../img/onload.png');
+        background-size: 100% 100%;
+        background-position:center center;
+        background-color: #23307A;
+        border-right: 2px solid #000;
+    }
+    .load{
+        height: auto;
+        width: 45vw;
+        padding-top: 100px;
+        padding-left: 120px;
+        background-color: #fff;
+        .onloadBox{
+            width: 320px;
+            // height: 100%;
+            p{
+                font-size: 26px;
+                font-family:"PingFang SC";
+                font-weight: 800;
+                margin-bottom:40px;
+            }    
+            .input{
+                .username , .passworld{
+                    margin-bottom: 20px;
+                    .usernameInput{
+                        width:100%;
+                    }
+                    span{
+                        display: block;
+                        line-height: 40px;
+                        color: #BBBDC8;
+                    }
+                }
+                .passworld{
+                    top: 90px;
+                }
+                .choose{
+                    width: 100%;
+                    margin-top: 20px;
+                    display: flex;
+                    justify-content:space-between;
+                    .forget{
+                        color: #2976F6 !important;
+                    }
+                }
+                .onloadBtn{
+                    position: relative;
+                    top: 20px;
+                    text-align: center;
+                    button{
+                        width: 320px;
+                        height: 30px;
+                        line-height: 10px;
+                        background-color: #2C3351;
+                        color: #fff;
+                        border-radius: 20px;
+                    }
+                }
+                .registe{
+                    width: 100%;
+                    display: flex;
+                    justify-content: space-between;
+                    margin-top: 100px;
+                }
+            }
+        }
+    }
+    .logotext{
+        font-size: 18px;
+        margin-left: 20px;
+        position: relative;
+        top:20px;
+        color: #2976F6;
+        font-family:"PingFang SC";
+    }
+    .text{
+        font-family:"PingFang SC";
+        position: relative;
+        bottom:-160px;
+        text-align: center;
+        color: #2976F6;
+         .line_left , .line_right{
+            width: 80px;
+            height: 20px;
+        }
+    }
+}
+
+.el-input__inner:focus{
+    color: #4E64EE;
+    border-bottom: 3px solid #4E64EE;
+}

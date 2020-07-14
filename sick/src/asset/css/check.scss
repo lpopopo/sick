@@ -1,0 +1,48 @@
+
+    .appBox{
+      width: 100%;
+      min-height: 100vh;
+      display: flex;
+      .navigation{
+        width: 240px;
+        height: 100vh;
+        .avcter{
+          height: 120px;
+          margin-top: 40px;
+          margin-left: 10px;
+          .img{
+            display: inline-block;
+            width: 80px;
+            height:80px;
+            img{
+              width: 100%;
+              height: 100%;
+              border-radius: 50%;
+            }
+         }
+          .text{
+            display: inline-block;
+            width: 90px;
+            height: 80px;
+            padding-left: 20px;
+            text-align: center;
+            p{
+              overflow: hidden;
+            }
+          }
+        }
+      }
+      .content{
+        width: 84vw;
+        height: 100%;
+        margin-top: 14px;
+      }
+    }
+  
+.is-active{
+  i{
+    a{
+      color: #20a0ff;
+    }
+  }
+}    
